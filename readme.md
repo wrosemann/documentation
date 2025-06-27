@@ -7,3 +7,6 @@ The structure is as follows:
 - docs: general area for documents
 - samples: script samples
 - examples: explainers and supporting docs for common advanced tasks
+
+## Support
+For questions or support, please contact us at: info@adroit.co.za
