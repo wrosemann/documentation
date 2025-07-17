@@ -5,9 +5,6 @@ VIZNET.Shared.DataElements.Collections.DataElementCollection __dec = VIZNET.Shar
 DataElement __de = DataElementEngine.NewDataElement("a2.de");
 __de.Value = 1223;
 
-//Add the DataElement to the collection before updating
-__dec.Add(__de);
-
 MethodReturnInfo __mri = MyConnection.UpdateDataElements(__dec);
 
 //Check that the write was successful:
