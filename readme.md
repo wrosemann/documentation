@@ -9,4 +9,4 @@ The structure is as follows:
 - examples: explainers and supporting docs for common advanced tasks
 
 ## Support
-For questions or support, please contact us at: info@adroit.co.za
+For questions or support, please contact us
